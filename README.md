@@ -10,13 +10,16 @@ Visual components and Python
 
 ![image](https://user-images.githubusercontent.com/103921593/203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54.png)
 
+
 ## Procedure :
 
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
+
 ## Experiment:
-![image](https://github.com/SarweshvaranA/Open-Jacson-Networks/assets/146930981/009b9c80-681c-4626-a3ad-0ea665bfb1a3)
-![image](https://github.com/SarweshvaranA/Open-Jacson-Networks/assets/146930981/b18f47bf-8882-4ea2-bb8b-723d23f70789)
+![image](https://github.com/HariharanJayavel/Open-Jacson-Networks/assets/144870546/b0b3e442-bfff-4bbe-b8ad-0c15592172c5)
+![image](https://github.com/HariharanJayavel/Open-Jacson-Networks/assets/144870546/a5fb02d6-6ddc-42ee-b0c2-9a7f6ef95776)
+
 
 ## Program
 ```
@@ -63,7 +66,9 @@ print("----------------------------------------------------------------------")
 ```
 
 ## Output:
-![image](https://github.com/SarweshvaranA/Open-Jacson-Networks/assets/146930981/d7e41f0c-a474-468b-9973-669b5bcecf4f)
+
+![image](https://github.com/HariharanJayavel/Open-Jacson-Networks/assets/144870546/3cfb4b65-18e3-4623-a2a0-c3eb21fcc249)
+
 
 ## Result
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
